@@ -1,0 +1,14 @@
+{
+  "cmp-buffer": { "branch": "main", "commit": "3022dbc9166796b644a841a02de8dd1cc1d311fa" },
+  "cmp-nvim-lsp": { "branch": "main", "commit": "99290b3ec1322070bcfb9e846450a46f6efa50f0" },
+  "cmp-path": { "branch": "main", "commit": "91ff86cd9c29299a64f968ebb45846c485725f23" },
+  "everforest": { "branch": "master", "commit": "7c4894b64f8d98862153515ceb2a31fc58b9a5b1" },
+  "floatingtodo.nvim": { "branch": "main", "commit": "b9527f4f8fa26699ec52bc78e9fc260fa66aedf3" },
+  "fzf-lua": { "branch": "main", "commit": "d26acfea8d2b873a6c5f66e8d0168871e5be3945" },
+  "lazy.nvim": { "branch": "main", "commit": "d8f26efd456190241afd1b0f5235fe6fdba13d4a" },
+  "lightline.vim": { "branch": "master", "commit": "e358557e1a9f9fc860416c8eb2e34c0404078155" },
+  "nvim-cmp": { "branch": "main", "commit": "12509903a5723a876abd65953109f926f4634c30" },
+  "nvim-lspconfig": { "branch": "master", "commit": "9962e25a23f0e992116b99a9a6400947d5a7177b" },
+  "nvim-tree.lua": { "branch": "master", "commit": "d05881f65f0a653db8d830ccc4d2e07d6a720628" },
+  "nvim-web-devicons": { "branch": "master", "commit": "1c9136332840edee0c593f2f4f89598c8ed97f5f" }
+}
